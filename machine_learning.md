@@ -26,7 +26,7 @@ Please feel free to use.
 
 ## Codes
 Machine Learning
- - [ML]
+ - Basics
    - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
    - [awesome-machine-learning](https://github.com/aymericdamien/awesome-machine-learning)
 

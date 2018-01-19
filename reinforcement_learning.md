@@ -30,7 +30,7 @@ Please feel free to use.
 
 ## Codes
 Reinforcement Learning
- - [RL]
+ - Basics
    - [awesome-rl](https://github.com/aikorea/awesome-rl)
 
 ## Theory

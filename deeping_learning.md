@@ -26,17 +26,18 @@ Please feel free to use.
 
 ## Codes
 Deep Learning
- - [PyTorch](https://github.com/pytorch/pytorch)
-   - [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
-   - [pytorch-beginner](https://github.com/SherlockLiao/pytorch-beginner)
- - [Tensorflow](https://github.com/tensorflow/tensorflow)
-   - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
-   - [Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)
-   - [TensorFlow-and-DeepLearning-Tutorial](https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial)
-   - [tflearn](https://github.com/aymericdamien/tflearn)
-   - [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
- - [RNN](https://github.com/pytorch/pytorch)
-   - [awesome-rnn](https://github.com/aymericdamien/awesome-rnn)
+ - Basics
+   - [PyTorch](https://github.com/pytorch/pytorch)
+     - [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+     - [pytorch-beginner](https://github.com/SherlockLiao/pytorch-beginner)
+   - [Tensorflow](https://github.com/tensorflow/tensorflow)
+     - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+     - [Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)
+     - [TensorFlow-and-DeepLearning-Tutorial](https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial)
+     - [tflearn](https://github.com/aymericdamien/tflearn)
+     - [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
+   - [RNN](https://github.com/pytorch/pytorch)
+     - [awesome-rnn](https://github.com/aymericdamien/awesome-rnn)
 
 ## Theory
 
