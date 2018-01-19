@@ -27,8 +27,8 @@ Please feel free to use.
 ## Codes
 Machine Learning
  - Basics
-   - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones Python implementations of Machine Learning models and algorithms with a focus on transparency and accessibility. Aims to cover everything from Data Mining techniques to Deep Learning
-   - [awesome-machine-learning](https://github.com/aymericdamien/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software
+   - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones Python implementations of Machine Learning models and algorithms with a focus on transparency and accessibility. Aims to cover everything from Data Mining techniques to Deep Learning.
+   - [awesome-machine-learning](https://github.com/aymericdamien/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ## Theory
 

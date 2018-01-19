@@ -17,4 +17,4 @@ Please feel free to use.
 
 ## Tools
 
- - [wikiextractor](https://github.com/attardi/wikiextractor) - A tool for extracting plain text from Wikipedia dumps
+ - [wikiextractor](https://github.com/attardi/wikiextractor) - A tool for extracting plain text from Wikipedia dumps.

@@ -31,7 +31,7 @@ Please feel free to use.
 ## Codes
 Reinforcement Learning
  - Basics
-   - [awesome-rl](https://github.com/aikorea/awesome-rl) - Reinforcement learning resources curated
+   - [awesome-rl](https://github.com/aikorea/awesome-rl) - Reinforcement learning resources curated.
 
 ## Theory
 
