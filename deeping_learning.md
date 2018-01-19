@@ -27,17 +27,23 @@ Please feel free to use.
 ## Codes
 Deep Learning
  - Basics
-   - [PyTorch](https://github.com/pytorch/pytorch)
+   - PyTorch
      - [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
      - [pytorch-beginner](https://github.com/SherlockLiao/pytorch-beginner)
-   - [Tensorflow](https://github.com/tensorflow/tensorflow)
+   - Tensorflow
      - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
      - [Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)
      - [TensorFlow-and-DeepLearning-Tutorial](https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial)
      - [tflearn](https://github.com/aymericdamien/tflearn)
+     - [deep-text-classifier-mtl](https://github.com/dhwajraj/deep-text-classifier-mtl)
      - [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
-   - [RNN](https://github.com/pytorch/pytorch)
+   - RNN
      - [awesome-rnn](https://github.com/aymericdamien/awesome-rnn)
+   - Theano
+     - [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
+ - Others
+   [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning)
+   [tutorials](https://github.com/MorvanZhou/tutorials) - from MorvanZhou
 
 ## Theory
 

@@ -15,3 +15,6 @@ Please feel free to use.
  - [Reinforcement Learning](https://github.com/yongbowin/AI-Tutorials/blob/master/reinforcement_learning.md)
  - [Natural Language Processing](https://github.com/yongbowin/AI-Tutorials/blob/master/NLP.md)
 
+## Tools
+
+ - [wikiextractor](https://github.com/attardi/wikiextractor) - A tool for extracting plain text from Wikipedia dumps
