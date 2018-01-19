@@ -50,7 +50,7 @@ Subfields
      - 2017, IEEE, Multi-criterion Real Time Tweet Summarization Based upon Adaptive Threshold. [[Paper]](http://oatao.univ-toulouse.fr/17220/1/chellal_17220.pdf)
      - 2016, SIGIR, Simple Dynamic Emission Strategies for Microblog Filtering. [[Paper]](https://cs.uwaterloo.ca/~jimmylin/publications/Tan_etal_SIGIR2016b.pdf)
      - 2016, IJCS, Short_Text_Summary_Generation_on_Social_Network_Comment_Streams. [[Paper]](http://www.ijcsonline.com/IJCS/Vol03_Issue07/Short_Text_Summary_Generation_on_Social_Network_Comment_Streams.pdf)
-     - 2016, IJSR, RISTS-Real-Time Incremental Short Text Summarization of Comment Streams in Social Networks. [[]](http://bermuda.citi.sinica.edu.tw/wordpress/wp-content/uploads/2014/04/IncreSTS.pdf)
+     - 2016, IJSR, RISTS-Real-Time Incremental Short Text Summarization of Comment Streams in Social Networks. [[Paper]](http://bermuda.citi.sinica.edu.tw/wordpress/wp-content/uploads/2014/04/IncreSTS.pdf)
      - 2016, arXiv, Abstractive Text Summarization Using Sequence-to-Sequence RNNs and Beyond. [[Paper]](http://ai2-s2-pdfs.s3.amazonaws.com/b9e3/3c9d779ccecdc2a81b9bb52e424d96423220.pdf)
      - 2016, Adaptive Evolutionary Filtering in Real-Time Twitter Stream. [[Paper]](http://59.108.48.35:8080/static/upload/20170614171356_4082.pdf)
      - 2016, A Study of Realtime Summarization Metrics. [[Paper]](http://eprints.gla.ac.uk/148597/1/148597.pdf)

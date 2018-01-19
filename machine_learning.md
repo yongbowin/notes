@@ -25,6 +25,10 @@ Please feel free to use.
  - [Open Source Machine Learning Platforms](#open-source-machine-learning-platforms)
 
 ## Codes
+Machine Learning
+ - [ML]
+   - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+   - [awesome-machine-learning](https://github.com/aymericdamien/awesome-machine-learning)
 
 ## Theory
 

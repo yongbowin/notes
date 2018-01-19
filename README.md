@@ -15,4 +15,3 @@ Please feel free to use.
  - [Reinforcement Learning](https://github.com/yongbowin/AI-Tutorials/blob/master/reinforcement_learning.md)
  - [Natural Language Processing](https://github.com/yongbowin/AI-Tutorials/blob/master/NLP.md)
 
-

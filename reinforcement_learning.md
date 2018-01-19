@@ -29,6 +29,9 @@ Please feel free to use.
  - [Open Source Reinforcement Learning Platforms](#open-source-reinforcement-learning-platforms)
 
 ## Codes
+Reinforcement Learning
+ - [RL]
+   - [awesome-rl](https://github.com/aikorea/awesome-rl)
 
 ## Theory
 
