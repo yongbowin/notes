@@ -41,6 +41,8 @@ Deep Learning
      - [awesome-rnn](https://github.com/aymericdamien/awesome-rnn) - Recurrent Neural Network - A curated list of resources dedicated to RNN.
    - Theano
      - [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning".
+   - Keras
+     - [Keras Doc](http://keras-cn.readthedocs.io/en/latest/) - Keras Doc for Chinese.
  - Others
      - [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning.
      - [tutorials](https://github.com/MorvanZhou/tutorials) - from MorvanZhou.
