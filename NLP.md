@@ -45,7 +45,7 @@ Subfields
      - 2017, A survey on Automatic Text Summarization. [[Paper]](https://www.researchgate.net/profile/Oguzhan_Tas2/publication/319904994_A_survey_on_Automatic_Text_Summarization/links/59cad16945851556e97e3228/A-survey-on-Automatic-Text-Summarization.pdf?origin=publication_detail)
      - 2007, A_survey_on_automatic_text_summarization. [[Paper]](http://www.cs.cmu.edu/afs/cs/Web/People/nasmith/LS2/das-martins.07.pdf)
    - Advanced
-     - 2017, SIGIR, Neural Network based Reinforcement Learning for Real-time Pushing on Text Stream. [[Paper]](http://delivery.acm.org/10.1145/3090000/3080677/p913-tan.pdf?ip=210.75.252.190&id=3080677&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2E6FFDCCEC948C43C2%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1516376390_eb9e370146ec4081bfb24aa5012c91eb)
+     - 2017, SIGIR, Neural Network based Reinforcement Learning for Real-time Pushing on Text Stream. [[Paper]](https://www.researchgate.net/publication/318764033_Neural_Network_based_Reinforcement_Learning_for_Real-time_Pushing_on_Text_Stream)
      - 2017, arXiv, A Deep Reinforced Model for Abstractive Summarization. [[Paper]](https://openreview.net/pdf/34f5413297ae5ab2dca2ceb906f9fcbc0499bedf.pdf)
      - 2017, IEEE, Multi-criterion Real Time Tweet Summarization Based upon Adaptive Threshold. [[Paper]](http://oatao.univ-toulouse.fr/17220/1/chellal_17220.pdf)
      - 2016, SIGIR, Simple Dynamic Emission Strategies for Microblog Filtering. [[Paper]](https://cs.uwaterloo.ca/~jimmylin/publications/Tan_etal_SIGIR2016b.pdf)
