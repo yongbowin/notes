@@ -32,6 +32,8 @@ Please feel free to use.
 Reinforcement Learning
  - Basics
    - [awesome-rl](https://github.com/aikorea/awesome-rl) - Reinforcement learning resources curated.
+ - Keras
+   - [keras-rl](https://github.com/matthiasplappert/keras-rl) - Deep Reinforcement Learning for Keras.
 
 ## Theory
 
