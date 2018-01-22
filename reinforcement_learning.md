@@ -44,12 +44,16 @@ Reinforcement Learning
 ### Surveys
 
 ### Papers / Thesis
+ - Advanced
+   - 2017, arXiv, Reinforcement Learning via Recurrent Convolutional Neural Networks. [[Paper]](https://arxiv.org/pdf/1701.02392.pdf) [[Code]](https://github.com/tanmayshankar/RCNN_MDP)
+   - 2015, arXiv, Deep Attention Recurrent Q-Network. [[Paper]](https://arxiv.org/pdf/1512.01693.pdf)
 
 ## Applications
 
 ### Operations Research
 
 ## Tutorials / Websites
+  - [deep-reinforcement-learning-networks](https://github.com/5vision/deep-reinforcement-learning-networks) - A list of deep neural network architectures for reinforcement learning tasks.
 
 ## Online Demos
 

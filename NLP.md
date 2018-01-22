@@ -66,6 +66,9 @@ Subfields
      - 2009, Real time query trends with multi-document summarization. [[Paper]](http://patentimages.storage.googleapis.com/pdfs/US7613690.pdf)
      - 2001, ICHL, NewsInEssence-a system for domain-independent, real-time news clustering and multi-document summarization. [[Paper]](http://acl-arc.comp.nus.edu.sg/archives/acl-arc-090501d3/data/pdf/anthology-PDF/H/H01/H01-1056.pdf)
      - 1999, ACM, Gradient descent for general reinforcement learning. [[Paper]](http://leemon.com/papers/1999bm.pdf)
+ - QA:
+   - Advanced
+     - 2016, arXiv, ABCNN Attention-Based Convolutional Neural Network for Modeling Sentence Pairs. [[Paper]](https://arxiv.org/pdf/1512.05193.pdf) [[Code]](https://github.com/galsang/ABCNN)
 
 ## Applications
 
