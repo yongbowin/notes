@@ -1,4 +1,4 @@
-# AI-Tutorials
+# [AI-Tutorials](https://github.com/yongbowin/AI-Tutorials) for NLP
 
 A curated list of resources dedicated to Natural Language Processing.
 

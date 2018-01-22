@@ -1,4 +1,4 @@
-# AI-Tutorials
+# [AI-Tutorials](https://github.com/yongbowin/AI-Tutorials) for Reinforcement Learning
 
 A curated list of resources dedicated to Reinforcement Learning.
 
