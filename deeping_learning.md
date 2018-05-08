@@ -43,6 +43,7 @@ Deep Learning
      - [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning".
    - Keras
      - [Keras Doc](http://keras-cn.readthedocs.io/en/latest/) - Keras Doc for Chinese.
+     - [Attention exemples](https://github.com/philipperemy/keras-attention-mechanism) - Keras Attention Mechanism.
  - Others
      - [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning.
      - [tutorials](https://github.com/MorvanZhou/tutorials) - from MorvanZhou.
