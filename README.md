@@ -1,4 +1,4 @@
-# AI-Tutorials Outline
+# Outline
 
 A curated list of resources dedicated to machine learning, deeping learning, reinforcement learning, NLP.
 
